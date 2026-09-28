@@ -1,6 +1,7 @@
 ﻿using System.Configuration;
 using System.Data;
 using System.Windows;
+using TradeAnalyzer.Helper;
 
 namespace TradeAnalyzer
 {
@@ -9,6 +10,7 @@ namespace TradeAnalyzer
     /// </summary>
     public partial class App : Application
     {
+
     }
 
 }

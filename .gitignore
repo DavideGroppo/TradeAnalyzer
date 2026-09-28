@@ -4,3 +4,7 @@
 
 /TradeAnalyzer/.vs/TradeAnalyzer.slnx
 /.vs/CopilotSnapshots
+/TradeAnalyzer/.vs
+/TradeAnalyzer/bin/Debug/net10.0-windows
+/TradeAnalyzer/obj
+/TradeAnalyzer/obj/Debug/net10.0-windows
